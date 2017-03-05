@@ -1,0 +1,19 @@
+languageCode = "en-us"
+title = "LPR for [Electoral] Geeks"
+baseURL = "http://lpr-for-geeks.ca/"
+#baseurl = "/"
+theme = "hugo-theme-learn"
+paginate = "10" # Number of posts per page
+
+[params]
+  # Prefix URL to edit current page. Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  #editURL = ""
+  # Author of the site, will be used in meta information
+  author = "Byron Weber Becker"
+  # Description of the site, will be used in meta information
+  description = "Local Proportional Representation for [Electoral] Geeks"
+  # Shows a checkmark for visited pages on the menu. Default to false
+  showVisitedLinks = true
+
+  menu=["welcome", "basics", "details", "issues", "faq"]
