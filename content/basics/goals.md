@@ -114,7 +114,10 @@ Some politicians and commentators have claimed that "fringe parties" would do be
 under a proportional system.
 
 For individual candidates from "fringe parties", LPR puts up a reasonably high threshold
-of support to earn a seat.  For "fringe parties" as a whole, proportional systems are 
-great because such parties either need to win 50% of the vote (and are no longer fringe!)
+of support to earn a seat.  
+
+The barriers for "fringe parties" as a whole are also high.  To impose their will on
+the population under proportional representation they need to either win 50% of 
+the vote (and are no longer fringe!)
 or work together with other parties, who presumably won't accept the fringe parts
 of their platform.

@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Local Proportional Representation"
-baseURL = "http://lpr-for-geeks.ca/"
+baseURL = "http://localpr.ca/"
 #baseurl = "/"
 theme = "hugo-theme-learn"
 paginate = "10" # Number of posts per page

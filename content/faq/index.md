@@ -13,7 +13,7 @@ chapter = true
 
 
 If you don't find it here or you think you have a better answer, 
-please contact [Byron Weber Becker](info@lpr-for-geeks.ca).
+please contact [Byron Weber Becker](info@localpr.ca).
 
 <!--
 ## Notes

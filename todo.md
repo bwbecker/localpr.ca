@@ -1,5 +1,5 @@
 
-1. Make "Counting Votes: Level 3" initially hidden
+X Make "Counting Votes: Level 3" initially hidden
 1. Add Lev's example to fairness FAQ  (see below)
 1. Move to a different domain
 

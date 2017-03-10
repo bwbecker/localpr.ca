@@ -10,7 +10,7 @@ weight = 10
 
 Local Proportional Represenation (LPR):
 
-- Combines 4-7 existing ridings into a region
+- Groups 4-7 existing ridings into a region
 - The region as a whole elects MPs to represent them
 - LPR guarantees that each riding will have its own MP
 

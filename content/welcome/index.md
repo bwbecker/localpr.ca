@@ -18,5 +18,3 @@ is for those who want to know *all* about how LPR works.
 
 This web site is maintained by [Byron Weber Becker](mailto:info@localpr.ca), the primary
 author of Local Proportional Represenation.
-
-## Still under construction!

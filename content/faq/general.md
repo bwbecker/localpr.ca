@@ -23,14 +23,14 @@ type = "faq"
 	Ireland, all elections in Malta, Local Authorities in New Zealand, and Australia's
 	Senate.  In addition, STV was used for many years to elect provincial MLAs in 
 	the cities in Winnipeg, Edmonton and Calgary.  Why did the politicians get rid 
-	of STV in those jurisdictions?  To quote researcher Harold Jansen: 
+	of STV in those Canadian jurisdictions?  To quote researcher Harold Jansen: 
 	"Naked political self-interest."
 
 	LPR+ adds compensatory ("top-up") seats in broader regions, an idea borrowed
 	from Mixed Member Proportional (MMP).  MMP is used in eight countries,
 	including Germany, New Zealand, Hungary, and Mexico.
 
-	Most countries with proportional representation use some for of List PR.  But
+	Most countries with proportional representation use some form of List PR.  But
 	Canadians don't seem comfortable with those systems, so no one is proposing
 	one for Canada.
 
