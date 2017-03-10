@@ -11,12 +11,12 @@ prev = ""
 
 # Welcome
 
-Welcome to *LPR for [Electoral] Geeks*, a companion to 
+Welcome to [LocalPR.ca](https://localpr.ca), a companion to 
 [AllVotesCount.ca](http://allvotescount.ca).  AllVotesCount is the
 gentle introduction to Local Proportional Representation.  This site
-is for those die-hards that want to know *all* about how LPR works.
+is for those who want to know *all* about how LPR works.
 
-This web site is maintained by [Byron Weber Becker](mailto:info@lpr-for-geeks.ca), the primary
+This web site is maintained by [Byron Weber Becker](mailto:info@localpr.ca), the primary
 author of Local Proportional Represenation.
 
 ## Still under construction!

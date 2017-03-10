@@ -1,6 +1,6 @@
 +++
-next = "/next/path"
-prev = "/prev/path"
+next = "/details/modelling"
+prev = "/details/counting"
 weight = 20
 title = "Quota"
 date = "2017-03-04T20:38:40-05:00"
@@ -13,12 +13,13 @@ toc = true
 
 
 **Quota** is the term used for the smallest number of votes that will guarantee the
-election of a candidate.
+election of a candidate.  
 
 In a first-past-the-post election, where there is one and only one winner, quota is
 the well-known 50% + 1.  Expressed mathematically, it's \(1/2*v + 1\) where *v* is the
 total number of votes.  A candidate with that many
-votes can't be beaten by anyone else; there simply aren't enough votes left.
+votes can't be beaten by anyone else; there simply aren't enough votes left. A candidate
+could be elected with fewer votes, but \(1/2*v + 1\) guarantees a win.
 
 In a region where we elect two winners, quota is \(1/3*v + 1\).  If candidates A and
 B both have just over 1/3 of the votes, no other candidate can obtain more than 1/3

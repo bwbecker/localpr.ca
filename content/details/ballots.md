@@ -1,8 +1,8 @@
 +++
 date = "2017-03-04T13:13:03-05:00"
 toc = true
-next = "/next/path"
-prev = "/prev/path"
+next = "/details/counting"
+prev = "/details"
 weight = 10
 title = "Ballots"
 
@@ -10,7 +10,7 @@ title = "Ballots"
 
 All of the ballots in a region contain the same set of candidates.  The candidates are 
 organized by riding (the columns) and party (the rows).  The voter's own riding is
-hilighted and will have its own name at the top; otherwise ballots across the region
+highlighted and will have its own name at the top; otherwise ballots across the region
 are identical.
 
 Voters rank as many or as few candidates as they wish, in order, beginning with 1.  Ranked

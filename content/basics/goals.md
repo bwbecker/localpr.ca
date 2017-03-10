@@ -1,7 +1,7 @@
 +++
 toc = true
-next = "/next/path"
-prev = "/prev/path"
+next = "/basics/history"
+prev = "/basics/overview"
 weight = 20
 title = "Goals of LPR"
 date = "2017-03-02T22:10:01-05:00"
@@ -28,8 +28,8 @@ local riding associations, particularly in ridings that are already large,
 are all concerned that ridings do not increase in size.
 
 LPR maintains existing riding boundaries and guarantees an MP within each one.
-A valuable side effect is that LPR can be implemented easily with little 
-disruption.
+*A valuable side effect is that LPR can be implemented easily with little 
+disruption.*
 
 ### 2. Proportionality
 Many Canadians see a fundamental problem with FPTP which can give 100% of 

@@ -1,0 +1,74 @@
+
+/*
+a	{
+	color: #8451a1;
+	border-bottom: 1px dotted;
+}
+
+a:hover {
+   color: #8451a1;
+}
+*/
+
+body {
+	font-weight: 400;
+}
+
+
+.clickToReveal .fadedContent {
+	position: relative;
+	height: 70px;
+	overflow: hidden;
+}
+.clickToReveal .fadeDiv {
+	position: absolute;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	background:linear-gradient( rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) );
+}
+.clickToReveal .more {
+	text-align: center;
+}
+
+
+.faq {
+	counter-reset: faq-counter;
+}
+.faq ol {
+	list-style-type: none;	
+}
+.faq li {
+	padding-top: 0px;
+	position:relative;
+}
+.faq li:before {
+	content: counter(faq-counter);
+	counter-increment: faq-counter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: right;
+	width: 2em;
+	position: absolute;
+	top: -.5em;
+	left: -2.5em;
+}
+.faq li p:first-child {
+	font-size: larger;
+	font-weight: bold;
+}
+
+
+.faq .numbers td, th {
+	text-align: right;
+}
+
+.faq ol .footnotes p {
+	font-size: 11pt;
+	font-weight: 300;
+}
+
+.footnotes p {
+	font-size: 11pt;
+	font-weight: 300;
+}

@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "LPR for [Electoral] Geeks"
+title = "Local Proportional Representation"
 baseURL = "http://lpr-for-geeks.ca/"
 #baseurl = "/"
 theme = "hugo-theme-learn"
@@ -16,4 +16,4 @@ paginate = "10" # Number of posts per page
   # Shows a checkmark for visited pages on the menu. Default to false
   showVisitedLinks = true
 
-  menu=["welcome", "basics", "details", "issues", "faq"]
+  menu=["welcome", "basics", "details", "faq"]
