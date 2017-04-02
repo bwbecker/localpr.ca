@@ -1,5 +1,5 @@
 +++
-title = "Overview"
+title = "How Local PR Works"
 date = "2017-03-04T08:51:12-05:00"
 toc = true
 next = "basics/goals"
@@ -8,17 +8,18 @@ weight = 10
 
 +++
 
-Local Proportional Represenation (Local PR):
+Local PR groups 4-7 ridings into a region.  Voters within the region rank candidates
+on a ballot similar to the following.  The voter's own riding is highlighted.  A voter
+can rank as few (just 1!) or as many candidates as they want.
 
-- Groups 4-7 existing ridings into a region
-- The region as a whole elects MPs to represent them
-- Local PR guarantees that each riding will have its own MP
+![Ballot](/static/ballot-general.png)
 
-If the first two bullets sounds like Single Transferrable Vote (STV),
-that's because they are!  The contribution of Local PR is the guarantee that
-each riding within the region will have a local MP.
+Counting is like many leadership races:  the ballots are placed in piles according 
+to the first preference vote (this one goes on the pile for Gord Miller).  The
+candidate with the smallest pile is dropped and those ballots redistributed to 
+the next prefered candidate.  Eventually a candidate will have enough votes to 
+win a seat.  That person is declared a winner and any surplus votes are fairly distributed
+to next preferences.  This continues until all of the seats are filled.
 
-Local PR, as described above, delivers pretty good proportionality (Gallagher
-Index < 5 on a wide variety of inputs).  However, to make the proportionality
-even better, we envision adding a small number of compensatory ("top-up")
-MPs at a later date.
+The guarantee of one MP to represent each riding is achieved by "protecting" the
+last candidate in each riding from being dropped.

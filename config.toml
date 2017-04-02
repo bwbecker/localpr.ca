@@ -16,6 +16,6 @@ paginate = "10" # Number of posts per page
   # Shows a checkmark for visited pages on the menu. Default to false
   showVisitedLinks = true
 
-  menu=["welcome", "basics", "details", "faq", "discuss", "action", "about"]
+  menu=["basics", "details", "faq", "discuss", "action", "about"]
 
   googleAnalytics = "UA-93547423-1"

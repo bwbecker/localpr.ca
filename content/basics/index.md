@@ -5,37 +5,30 @@ next = "basics/overview"
 prev = "/welcome/index.html"
 weight = 0
 title = "Local PR Basics"
-chapter = true
+chapter = false
 
 +++
 
-# Local PR Basics
+Local Proporitional Representation (Local PR) is an electoral system designed
+specifically for Canada.  
 
-Learn about the basic principles and goals of Local Proportional Representation.
+* Local PR is proportional.
+* Local PR does not enlarge ridings nor does it add MPs to Parliament.
+* Local PR has an MP in each of our existing ridings.
+* Local PR requires each MP to face the voters directly.
 
+Learn more about the [Goals of Local PR](goals/).
 
-{{% preview title="Overview" url="/basics/overview/" %}}
+Local PR works by grouping 4-7 existing ridings into a region.  Voters in the
+region elect the best MPs to represent the region as a whole, but with a 
+guarantee that each riding will have one of the region's MPs.
 
-Local Proportional Represenation (Local PR) groups 4-7 existing ridings into a region...
+Local PR ballots give voters a lot of flexibility.  They can keep it simple
+and vote for just one candidate.  Voters can also rank more than one candidate.
 
-{{% /preview %}}
+Learn more about [How Local PR Works](how/).
 
-
-{{% preview title="Goals of Local PR" url="/basics/goals/" %}}
-
-Local Proportional Representation is a consensus model.  It aims to 
-simultaneously satisfy many objections to proportional representation.
-We want Local PR to be the model that everyone can agree on...
-
-{{% /preview %}}
-
-
-{{% preview title="History of Local PR" url="/basics/history/" %}}
-
-Local PR grew out of work requested by the Parliamentary Special Committee on 
-Electoral Reform (ERRE) and an active group of Guelph (Ontario) citizens.
-
-As it became clear in early January, 2017, that Mr. Trudeau was backing away...
-
-{{% /preview %}}
-
+Local PR, as described above, delivers pretty good proportionality (Gallagher
+Index < 5 on a wide variety of inputs).  However, to make the proportionality
+even better, we envision adding a small number of compensatory ("top-up")
+MPs at a later date.
