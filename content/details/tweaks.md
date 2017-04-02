@@ -10,9 +10,9 @@ title = "Tweaks to Consider"
 
 Local Proportional Representation isn't a done deal.  There are ideas to consider that might
 make it better.  Here's a place to record them.  If you have a suggestion, please
-drop [Byron Weber Becker](mailto:info@lpr-for-geeks.ca) a line.
+drop [Byron Weber Becker](mailto:info@localpr.ca) a line.
 
-Please remember that we're trying to satisfy many competing interests with LPR and we
+Please remember that we're trying to satisfy many competing interests with Local PR and we
 do envision a two-phase implementation.
 
 ### Adjustments to Counting
@@ -25,8 +25,7 @@ A simulation of the 2015 election without the surplus transfer showed very nearl
 same results in terms of cross-Canada proportionality -- in fact, they were slightly
 more proportional.  
 
-More study needs to be done
-of individual results, particularly when one candidate receives a large number of votes,
-but it does look like a promising modification to LPR.
+More study needs to be done, particularly at the regional level when one popular
+candidate receives many more than one quota of votes.
 
 

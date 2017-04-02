@@ -8,17 +8,17 @@ weight = 10
 
 +++
 
-Local Proportional Represenation (LPR):
+Local Proportional Represenation (Local PR):
 
 - Groups 4-7 existing ridings into a region
 - The region as a whole elects MPs to represent them
-- LPR guarantees that each riding will have its own MP
+- Local PR guarantees that each riding will have its own MP
 
 If the first two bullets sounds like Single Transferrable Vote (STV),
-that's because they are!  The contribution of LPR is the guarantee that
+that's because they are!  The contribution of Local PR is the guarantee that
 each riding within the region will have a local MP.
 
-LPR, as described above, delivers pretty good proportionality (Gallagher
+Local PR, as described above, delivers pretty good proportionality (Gallagher
 Index < 5 on a wide variety of inputs).  However, to make the proportionality
 even better, we envision adding a small number of compensatory ("top-up")
 MPs at a later date.

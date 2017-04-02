@@ -12,8 +12,8 @@ type = "faq"
 
 1.	It seems undemocratic for voters in other ridings to vote for my MP.
 
-	LPR has a different mind-set than First-Past-The-Post.  In FPTP the voters in the riding select
-	the MP.  In LPR the voters in the region select the MPs for the region as a whole.  The guarantee
+	Local PR has a different mind-set than First-Past-The-Post.  In FPTP the voters in the riding select
+	the MP.  In Local PR the voters in the region select the MPs for the region as a whole.  The guarantee
 	of one MP in each riding is not to say that each riding gets their choice but that each riding 
 	has representation on really local issues and someone local to help constituents.
 

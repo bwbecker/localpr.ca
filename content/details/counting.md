@@ -80,8 +80,8 @@ the one with more votes becomes elected.</p>
 
 {{% clickToReveal %}}
 
-To be yet more rigorous in describing the procedure, we can express it as pseudocode for
-a computer algorithm:
+For those who prefer to be yet more rigorous in describing the procedure, we 
+can express it as pseudocode for a computer algorithm:
 
 ```python
 while (some seats remain unfilled) {

@@ -4,7 +4,7 @@ weight = 40
 title = "MPs"
 date = "2017-03-05T19:35:58-05:00"
 toc = true
-next = ""
+next = "/discuss/"
 type = "faq"
 
 +++

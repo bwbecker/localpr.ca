@@ -12,8 +12,10 @@ paginate = "10" # Number of posts per page
   # Author of the site, will be used in meta information
   author = "Byron Weber Becker"
   # Description of the site, will be used in meta information
-  description = "Local Proportional Representation for [Electoral] Geeks"
+  description = "Local Proportional Representation: Regionally proportional, Locally Representative."
   # Shows a checkmark for visited pages on the menu. Default to false
   showVisitedLinks = true
 
-  menu=["welcome", "basics", "details", "faq"]
+  menu=["welcome", "basics", "details", "faq", "discuss", "action", "about"]
+
+  googleAnalytics = "UA-93547423-1"

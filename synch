@@ -2,4 +2,9 @@
 
 # rsync the hmtl directory with the electon-modelling.ca web site.
 #
+#rsync -avz public/ anlujo.cs.uwaterloo.ca:/Library/WebServer/Documents/localpr.ca/
+
+# Regenerate the site
+hugo
+
 rsync -avz public/ anlujo.cs.uwaterloo.ca:/Library/WebServer/Documents/localpr.ca/
