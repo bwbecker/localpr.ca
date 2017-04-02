@@ -2,9 +2,9 @@
 weight = 10
 title = "General"
 chapter = false
-prev = "/faq"
+prev = "faq"
 icon = ""
-next = "/faq/fairness"
+next = "faq/fairness"
 date = "2017-03-08T21:21:50-05:00"
 toc = true
 type = "faq"

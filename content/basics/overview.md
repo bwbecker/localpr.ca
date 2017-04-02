@@ -23,3 +23,5 @@ to next preferences.  This continues until all of the seats are filled.
 
 The guarantee of one MP to represent each riding is achieved by "protecting" the
 last candidate in each riding from being dropped.
+
+[Details](/details) describes the process in more depth.

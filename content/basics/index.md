@@ -2,7 +2,7 @@
 date = "2017-03-02T22:07:58-05:00"
 toc = true
 next = "basics/overview"
-prev = "/welcome/index.html"
+prev = ""
 weight = 0
 title = "Local PR Basics"
 chapter = false
@@ -26,7 +26,7 @@ guarantee that each riding will have one of the region's MPs.
 Local PR ballots give voters a lot of flexibility.  They can keep it simple
 and vote for just one candidate.  Voters can also rank more than one candidate.
 
-Learn more about [How Local PR Works](how/).
+Learn more about [How Local PR Works](overview/).
 
 Local PR, as described above, delivers pretty good proportionality (Gallagher
 Index < 5 on a wide variety of inputs).  However, to make the proportionality

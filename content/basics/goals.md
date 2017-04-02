@@ -1,7 +1,7 @@
 +++
 toc = true
-next = "/basics/history"
-prev = "/basics/overview"
+next = "basics/history"
+prev = "basics/overview"
 weight = 20
 title = "Goals of Local PR"
 date = "2017-03-02T22:10:01-05:00"

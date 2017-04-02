@@ -1,8 +1,8 @@
 +++
 date = "2017-03-05T19:25:31-05:00"
 toc = true
-next = "/faq/mps"
-prev = "/faq/fairness"
+next = "faq/mps"
+prev = "faq/fairness"
 weight = 30
 title = "Regions"
 type = "faq"

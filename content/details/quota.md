@@ -1,6 +1,6 @@
 +++
-next = "/details/modelling"
-prev = "/details/counting"
+next = "details/modelling"
+prev = "details/counting"
 weight = 20
 title = "Quota"
 date = "2017-03-04T20:38:40-05:00"

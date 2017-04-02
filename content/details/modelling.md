@@ -2,8 +2,8 @@
 title = "Modelling"
 date = "2017-03-04T22:08:53-05:00"
 toc = true
-next = "/details/tweaks"
-prev = "/details/quota"
+next = "details/tweaks"
+prev = "details/quota"
 weight = 30
 
 +++

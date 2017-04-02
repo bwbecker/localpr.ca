@@ -1,7 +1,7 @@
 +++
 toc = true
-next = "/faq/general"
-prev = "/details/tweaks"
+next = "faq/general"
+prev = "details/tweaks"
 weight = 0
 title = "Frequently Asked Questions"
 date = "2017-03-02T22:14:41-05:00"

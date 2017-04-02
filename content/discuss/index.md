@@ -1,10 +1,10 @@
 +++
-prev = "/faq/mps"
+prev = "faq/mps"
 weight = 5
 title = "Discuss"
 date = "2017-03-12T19:33:49-04:00"
 toc = true
-next = "/action"
+next = "action"
 
 +++
 

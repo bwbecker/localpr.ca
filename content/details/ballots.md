@@ -1,8 +1,8 @@
 +++
 date = "2017-03-04T13:13:03-05:00"
 toc = true
-next = "/details/counting"
-prev = "/details"
+next = "details/counting"
+prev = "details"
 weight = 10
 title = "Ballots"
 

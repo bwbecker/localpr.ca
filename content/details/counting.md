@@ -1,8 +1,8 @@
 +++
 date = "2017-03-04T20:24:27-05:00"
 toc = true
-next = "/details/quota"
-prev = "/details/ballots"
+next = "details/quota"
+prev = "details/ballots"
 weight = 15
 title = "Counting Votes"
 

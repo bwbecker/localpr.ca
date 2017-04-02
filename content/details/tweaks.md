@@ -1,8 +1,8 @@
 +++
 date = "2017-03-06T19:57:53-05:00"
 toc = true
-prev = "/details/modelling"
-next = "/faq"
+prev = "details/modelling"
+next = "faq"
 weight = 40
 title = "Tweaks to Consider"
 

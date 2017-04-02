@@ -3,8 +3,8 @@ weight = 5
 title = "Take Action"
 date = "2017-03-12T20:41:16-04:00"
 toc = true
-next = "/about"
-prev = "/discuss"
+next = "about"
+prev = "discuss"
 
 +++
 

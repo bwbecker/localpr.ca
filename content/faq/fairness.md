@@ -1,10 +1,10 @@
 +++
-prev = "/faq/general"
+prev = "faq/general"
 weight = 20
 title = "Fairness"
 date = "2017-03-05T21:31:00-05:00"
 toc = true
-next = "/faq/regions"
+next = "faq/regions"
 type = "faq"
 
 +++
