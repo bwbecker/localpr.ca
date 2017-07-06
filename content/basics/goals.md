@@ -1,8 +1,8 @@
 +++
 toc = true
-next = "basics/history"
-prev = "basics/overview"
-weight = 20
+next = "basics/overview"
+prev = "basics"
+weight = 10
 title = "Goals of Local PR"
 date = "2017-03-02T22:10:01-05:00"
 
@@ -16,7 +16,7 @@ it may not be anyone's favourite.
 In listening to the debate so far -- including town hall meetings, letters
 to the editor, concerns from MPs, reaction to previous proposals, members
 of the ERRE, etc. --
-we hear the following ten concerns that an electoral system should satisfy.
+we heard the following ten concerns that an electoral system should satisfy.
 
 ### 1. Local Representation
 Canadians are used to having a local MP that knows the local issues
@@ -27,7 +27,9 @@ Constituents, MPs, and members of
 local riding associations, particularly in ridings that are already large,
 are all concerned that ridings do not increase in size.
 
-Local PR maintains existing riding boundaries and guarantees an MP within each one.
+Local PR maintains existing riding boundaries and guarantees a the election
+of a local-nominated MP within each riding.
+
 *A valuable side effect is that Local PR can be implemented easily with little 
 disruption.*
 
@@ -36,8 +38,9 @@ Many Canadians see a fundamental problem with FPTP which can give 100% of
 the power to a party receiving less than 40% of the vote.  The preferred 
 way to address this is with a proportional electoral system.
 
-Local PR is proportional.  Its Gallagher Index of Disproportionality on a wide
-variety of inputs is less than 5, the minimum called for in the ERRE report.
+Local PR is proportional.  Its Gallagher Index of Disproportionality is less than 5
+for almost all simulated scenarios.  The ERRE report called for systems with
+a Gallagher Index of less than 5.
 Adding a very modest number of compensatory ("top-up") seats similar to 
 Mixed Member Proportional (MMP) at a later date can increase the proportionality
 even further.
@@ -87,13 +90,9 @@ voters in a given region elect more than just one person.
 
 ### 7. Manageable number of parties
 People like having a choice of parties, but recognize that too many parties can
-be counter-productive.  Israel's plethora of political parties is frequently
-raised as an example of what *not* to do.
-
-The multi-member nature of Local PR requires a candidate to earn a significant number
-of votes before being elected.  This forms a natural barrier to niche, special-interest
-parties. Local PR+ would add compensatory seats, but with a threshold (say, 5%) to
-require significant support before gaining a seat.
+be counter-productive.  The multi-member nature of Local PR requires a candidate 
+to earn a significant number of votes before being elected.  This forms a natural 
+barrier to niche, special-interest parties.
 
 ### 8. Simplicity in the voting process
 Opponents of proportional representation claim the voting process can be too difficult.
@@ -110,14 +109,7 @@ Local PR does not add MPs.  When our usual processes redraw boundaries or add MP
 next census, Local PR+ could be used to increase proportionality.
 
 ### 10. Protect against political extremists
-Some politicians and commentators have claimed that "fringe parties" would do better
-under a proportional system.
-
-For individual candidates from "fringe parties", Local PR puts up a reasonably high threshold
-of support to earn a seat.  
-
-The barriers for "fringe parties" as a whole are also high.  To impose their will on
-the population under proportional representation they need to either win 50% of 
-the vote (and are no longer fringe!)
-or work together with other parties, who presumably won't accept the fringe parts
-of their platform.
+In light of recent experience in Europe and elsewhere, many Canadians are concerned 
+that “fringe parties” might acquire undue amounts of power under a proportional system.
+However, for "fringe parties" to form government in a proportional system, they 
+would need to either win 50% of the vote or work together with other parties who presumably would not accept the fringe parts of their platform anyway. The dangers of a fringe minority taking power are actually higher under first-past-the-post where one party can take power with as little as 35% of the popular vote. Like all proportional systems, Local PR rewards each party according to its share of the vote.

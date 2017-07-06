@@ -12,10 +12,7 @@ type = "faq"
 
 1.	It seems undemocratic for voters in other ridings to vote for my MP.
 
-	Local PR has a different mind-set than First-Past-The-Post.  In FPTP the voters in the riding select
-	the MP.  In Local PR the voters in the region select the MPs for the region as a whole.  The guarantee
-	of one MP in each riding is not to say that each riding gets their choice but that each riding 
-	has representation on really local issues and someone local to help constituents.
+	Local PR has a different mind-set than First-Past-The-Post. In FPTP the voters in the riding select the MP for their riding. So only those that voted for the MP have full political representation. In Local PR the voters in the region select the MPs for the region as a whole. Most voters will now have two MPs to turn to. Their local MP will still be their constituent MP for matters such as passports, immigration, and more generally dealing with federal red tape. At the same time, most voters will now have a policy representative MP in their region more in accord with their own political persuasion.
 
 
 1. My riding elected an NDP candidate but surrounding ridings all went Conservative.  Will we keep our 

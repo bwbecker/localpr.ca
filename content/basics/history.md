@@ -1,6 +1,6 @@
 +++
 next = "details"
-prev = "basics/goals"
+prev = "basics/overview"
 weight = 30
 title = "History of Local PR"
 date = "2017-03-02T22:09:54-05:00"

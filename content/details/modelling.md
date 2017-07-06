@@ -2,7 +2,7 @@
 title = "Modelling"
 date = "2017-03-04T22:08:53-05:00"
 toc = true
-next = "details/tweaks"
+next = "discuss"
 prev = "details/quota"
 weight = 30
 
@@ -16,23 +16,25 @@ Local Proportional Representation (Local PR) has been modelled rigorously by Byr
 Weber Becker using the same techniques as his 
 [submission](http://www.parl.gc.ca/Content/HOC/Committee/421/ERRE/Brief/BR8454480/br-external/BeckerByronWeber-e.pdf) and 
 [testimony](http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=e&Mode=1&Parl=42&Ses=1&DocId=8514261) 
-to the Parliamentary Committee on Electoral Reform.  The complete results are available
-on [election-modelling.ca](http://election-modelling.ca/LPR_no_topup/index.html),
-including additional pages via the "This Model" menu at the top.
+to the Parliamentary Committee on Electoral Reform.  The 
+[detailed results](http://localpr.ca/modelling/html/overview/index.html) compare
+LPR with STV (Single Transferrable Vote), FPTP (First-Past-The-Post) and AV
+(Alternative Vote) for several different scenarios.
 
 It's important to remember that while models give important insights into how a system
 behaves, they can't be used to actually predict elections.  There are simply too many
-assumptions.  For example, the Local PR models at 
-[election-modelling.ca](http://election-modelling.ca/LPR_no_topup/index.html) are based
-on 2015 election data.  That election was heavily influenced by strategic voting which
-hurt the NDP and Greens, in particular.  With Local PR's preferential ballot we could expect 
+assumptions.  For example, the Local PR models are based
+on 2015 (Canada) and 2017 (BC) election data.  The 2015 election was heavily 
+influenced by strategic voting which
+hurt the NDP and Greens, in particular.  With Local PR's preferential ballot 
+we could expect 
 more votes for both of those parties, which these models don't take into account.
 
 
 ### Modelling Summary
 
 Local PR by itself is quite proportional while Local PR+ (with top-up seats) is very proportional.
-Local PR has a Gallagher Index of 4.01 on a simulation of the 2015 election with slightly
+Local PR has a Gallagher Index of 4.10 on a simulation of the 2015 election with slightly
 higher indices on synthetic elections where one party receives more than 40% of the vote.
 
 The results show that the Conservative, New Democrat, and Bloc's share of the seats matches
@@ -42,7 +44,7 @@ their share of votes almost exactly.
 
 The Liberals would continue to enjoy an undeserved
 surplus of seats, but only 149 instead of 184, or 4.6% more than proportional.  This results 
-from several factors: being a large, centrist, party; winning seats in the terretories (which
+from several factors: being a large, centrist, party; winning seats in the territories (which
 have only 1 seat each and so can't be made more proportional), etc.
 
 The Liberal boost comes at the expense of the Green party, which still earned only one seat
@@ -82,12 +84,13 @@ derived from the 2015 data by systematically shifting votes from Liberal candida
 to Conservative candidates (elections E1, E2, and E3) or from Conservative
 candidates to Liberal candidates (elections E5, E6, and E7).
 
-[Election-modelling.ca](http://election-modelling.ca/LPR_no_topup/index.html) 
-shows similar analyses that shift
+The 
+[detailed results](http://localpr.ca/modelling/html/overview/index.html) 
+show similar analyses that shift
 voters between NDP and Liberals as well as Greens and Liberals.
 
 ### Notes
 
-The model uses regions that average only 4.2MPs (or ridings) in each.  That's a pretty low
+The model uses regions that average only 5.6 MPs (or ridings) in each.  That's a pretty low
 number.  Proportionality would be improved (along with more opportunities for the Greens)
 by making that average larger.
